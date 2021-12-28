@@ -1,4 +1,5 @@
 window.onload = function() {
+    var cloock;
     var seconds = 00;
     var tens = 00;
     var appendSeconds = document.getElementById('seconds');
